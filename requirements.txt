@@ -1,0 +1,11 @@
+anthropic
+openai
+psycopg2-binary
+pgvector
+sqlalchemy
+python-dotenv
+requests
+schedule
+fastapi
+uvicorn
+numpy
